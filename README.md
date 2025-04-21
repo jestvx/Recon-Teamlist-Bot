@@ -12,21 +12,22 @@ Ein einfacher Discord-Bot, der automatisch eine Teamliste als Embed-Nachricht in
 
 ---
 
-## 📦 Installation
+## 📥 Bot herunterladen
 
-1. **Repository klonen**
-   ```bash
-   git clone https://github.com/dein-nutzername/teamlist-bot.git
-   cd teamlist-bot
-   ```
+> **Der Bot steht über Discord zur Verfügung.**  
+> Erhalte Zugriff auf den Download über unseren [Support-Discord](https://discord.gg/DEININVITE).
+
+---
+
+## 📦 Installation (Node.js)
+
+1. **Dateien vom Discord herunterladen und entpacken**
 
 2. **Abhängigkeiten installieren**
+   Stelle sicher, dass du [Node.js](https://nodejs.org/) installiert hast:
+
    ```bash
    npm install
-   ```
-   oder bei Python:
-   ```bash
-   pip install -r requirements.txt
    ```
 
 3. **Konfiguration anpassen**
@@ -59,15 +60,9 @@ Ein einfacher Discord-Bot, der automatisch eine Teamliste als Embed-Nachricht in
    }
    ```
 
-   > 💡 Tipp: Du kannst die `messageId` leer lassen, wenn die Nachricht neu generiert werden soll.
-
 4. **Bot starten**
    ```bash
    node index.js
-   ```
-   oder bei Python:
-   ```bash
-   python bot.py
    ```
 
 ---
