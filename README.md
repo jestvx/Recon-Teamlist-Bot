@@ -75,11 +75,6 @@ Ein einfacher Discord-Bot, der automatisch eine Teamliste als Embed-Nachricht in
 
 ---
 
-## 🖼 Embed Vorschau
-
-![Embed Vorschau](https://files.brokev-rp.de/uploads/teamlistimg.png)
-
----
 
 ## ❗ Lizenz
 
@@ -89,6 +84,6 @@ Dieser Bot benötigt einen Lizenzschlüssel (`licensekey`). Stelle sicher, dass 
 
 ## 📬 Support
 
-Bei Fragen oder Problemen melde dich im [Support-Discord](https://discord.gg/DEININVITE) oder öffne ein Issue.
+Bei Fragen oder Problemen melde dich im [Support-Discord](https://discord.gg/reconservice) oder öffne ein Issue.
 
 ---
